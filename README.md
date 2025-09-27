@@ -27,4 +27,4 @@ Terceiro/Quarto desafio do curso Code Girl da Dio.
   Um exemplo de criação de três instâncias ec2 t3-micro em 3 regiões diferentes e utilize o code deploy para realizar o deployment de uma api em ambas as três.
   _____________________________________________________________________________________________________________________ 
   ### Anexos
-  code.md contendo o código do template para a criação do workflow e images\ contendo o diagrama.
+  code.md contendo o código do template para a criação do workflow e a pasta images contendo o diagrama.
